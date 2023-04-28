@@ -84,7 +84,7 @@ Example :
 const elements = document.getElementsByTagName('p');
 ```
 
-4. **'querySelector()'**:  This method retrieves the first HTML element that matches a specified CSS selector.
+4. **'querySelector()'**: This method retrieves the first HTML element that matches a specified CSS selector.
 
 Example
 
@@ -99,5 +99,3 @@ Example
 ```
     const elements = document.querySelectorAll('p.myClass');
 ```
-
-"# DOM_tree" 
