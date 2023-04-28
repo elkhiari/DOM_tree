@@ -52,12 +52,11 @@ body
              \_ [text]
 ```
 
-<img src="https://www.linode.com/docs/guides/traversing-the-dom/dom-tree-example_huc1be129ee162561ad91a8ea0061e877c_45624_1388x0_resize_q71_bgfafafc_catmullrom_3.jpg"/>
-
 Knowing the arrangement of the DOM tree and its leaves, helps you understand how to access specific nodes when working with JavaScript. This is especially true when you are working with more complicated web pages. The Navigating the DOM Tree section of this guide includes a more in-depth discussion on moving around the nodes of the DOM tree.
 
 The diagram below provides a visualization of the DOM tree for this guide’s example web page. You can also view the example-page.html file in the Before You Begin section of this guide.
 
+<img src="https://www.linode.com/docs/guides/traversing-the-dom/dom-tree-example_huc1be129ee162561ad91a8ea0061e877c_45624_1388x0_resize_q71_bgfafafc_catmullrom_3.jpg"/>
 ## How to Access Elements via Object Methods
 
 1. **'getElementById()'**: This method retrieves the HTML element with a specific ID attribute.
